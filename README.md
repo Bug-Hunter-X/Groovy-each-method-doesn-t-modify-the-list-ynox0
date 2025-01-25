@@ -1,0 +1,1 @@
+This repository demonstrates a common pitfall in Groovy: the `each` method's immutability.  The `each` method iterates over a collection, but it does not modify the collection itself. This example shows how to correctly modify a list using the `each` method and also illustrates alternatives for modifying the list.
